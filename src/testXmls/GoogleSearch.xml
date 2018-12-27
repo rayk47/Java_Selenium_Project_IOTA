@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="Google Home Tests" verbose="10" thread-count="2"
+	parallel="methods">
+
+	<groups>
+		<run>
+			<exclude name="inProgress" />
+		</run>
+	</groups>
+
+	<listeners>
+		<listener class-name="org.uncommons.reportng.HTMLReporter" />
+		<listener class-name="org.uncommons.reportng.JUnitXMLReporter" />
+		<listener class-name="framework.ui.listeners.TestNGListener" />
+	</listeners>
+
+	<parameter name="browser" value="headless" />
+	<parameter name="environment" value="https://www.google.com" />
+
+	<test name="Google Homepage" preserve-order="true">
+		<packages>
+			<package name="tests.google.*"></package>
+		</packages>
+	</test>
+	
+</suite>

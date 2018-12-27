@@ -1,0 +1,19 @@
+[
+		{
+			"navigation_name": "BLOG",
+			"navigation_url": "https://blog.iota.org/"
+		},
+				{
+			"navigation_name": "DOCS",
+			"navigation_url": "https://docs.iota.org/"
+		},
+				{
+			"navigation_name": "ECOSYSTEM",
+			"navigation_url": "https://ecosystem.iota.org/"
+		}
+		,
+				{
+			"navigation_name": "DATA",
+			"navigation_url": "https://data.iota.org/#/"
+		}
+]

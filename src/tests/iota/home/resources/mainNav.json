@@ -1,0 +1,86 @@
+[
+	{
+		"navigation_name": "GET STARTED",
+		"navigation_options": [
+			{
+				"navigation_option_name": "What is IOTA?",
+				"navigation_option_url": "https://www.iota.org/get-started/what-is-iota"
+			},
+			{
+				"navigation_option_name": "FAQs",
+				"navigation_option_url": "https://www.iota.org/get-started/faqs"
+			},
+			{
+				"navigation_option_name": "For Organisations",
+				"navigation_option_url": "https://www.iota.org/get-started/for-organisations"
+			},
+			{
+				"navigation_option_name": "For Developers",
+				"navigation_option_url": "https://www.iota.org/get-started/for-developers"
+			},
+			{
+				"navigation_option_name": "For Regulators and Policymakers",
+				"navigation_option_url": "https://www.iota.org/get-started/for-regulators-and-policymakers"
+			},
+			{
+				"navigation_option_name": "Buy and Secure IOTA",
+				"navigation_option_url": "https://www.iota.org/get-started/buy-and-secure-iota"
+			}
+		]
+	},
+	{
+		"navigation_name": "THE FOUNDATION",
+		"navigation_options": [
+			{
+				"navigation_option_name": "Our Vision",
+				"navigation_option_url": "https://www.iota.org/the-foundation/our-vision"
+			},
+			{
+				"navigation_option_name": "The IOTA Foundation",
+				"navigation_option_url": "https://www.iota.org/the-foundation/the-iota-foundation"
+			},
+			{
+				"navigation_option_name": "Meet the Team",
+				"navigation_option_url": "https://www.iota.org/the-foundation/team"
+			},
+			{
+				"navigation_option_name": "Work at the IOTA Foundation",
+				"navigation_option_url": "https://www.iota.org/the-foundation/work-at-the-iota-foundation"
+			}
+		]
+	},
+	{
+		"navigation_name": "VERTICALS",
+		"navigation_options": [
+			{
+				"navigation_option_name": "Mobility & Automotive",
+				"navigation_option_url": "https://www.iota.org/verticals/mobility-automotive"
+			},
+			{
+				"navigation_option_name": "Global Trade & Supply Chains",
+				"navigation_option_url": "https://www.iota.org/verticals/global-trade-supply-chains"
+			},
+			{
+				"navigation_option_name": "eHealth",
+				"navigation_option_url": "https://www.iota.org/verticals/ehealth"
+			},
+			{
+				"navigation_option_name": "Smart Energy",
+				"navigation_option_url": "https://www.iota.org/verticals/smart-energy"
+			}
+		]
+	},
+	{
+		"navigation_name": "RESEARCH",
+		"navigation_options": [
+			{
+				"navigation_option_name": "Meet the Tangle",
+				"navigation_option_url": "https://www.iota.org/research/meet-the-tangle"
+			},
+			{
+				"navigation_option_name": "Academic Papers",
+				"navigation_option_url": "https://www.iota.org/research/academic-papers"
+			}
+		]
+	}
+]
